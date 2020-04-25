@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListaDeCompras</string>
+    <string name="title_activity_lista_de_compras">ListaDeComprasActivity</string>
+    <string name="come_ar">Começar</string>
+    <string name="novo_produto">Novo Produto</string>
+</resources>
